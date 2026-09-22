@@ -32,4 +32,4 @@ Upon inputting the correct string matching sequence, the system executes an auto
 * **Internet of Things (IoT) Connectivity:** Incorporating an ESP8266 or ESP32 communication layer to broadcast real-time access logs, trigger remote mobile alerts, and allow over-the-air password changes.   
 * **Power Management Architecture:** Introducing an intelligent deep-sleep state for the microcontroller that wakes up exclusively on a keypad interrupt, extending alternative battery or solar backup lifespans.   
 * **Tamper and Lockout System:** Implementing an EEPROM tracking variable that locks out entry attempts for an exponential timeframe after multiple consecutive failed attempts, alongside an audible alarm. 
-
+<img width="1280" height="720" alt="keypad servo motar" src="https://github.com/user-attachments/assets/ecfc3366-7e3b-4737-8fdb-74811476e249" />
